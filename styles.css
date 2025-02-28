@@ -1,0 +1,25 @@
+h4 {
+  text-align: center;
+  font-family: Monospace;
+  font-size: 25px;
+  background-color: silver;
+  border-color: black;
+}
+body {
+  background-image: url(.png);
+  background-color: ;
+  background: rgba(255,255,225, 0.5);
+}
+header {
+  background: rgba(255,255,225, 0.5);
+}
+img {
+position:absolute; /* atau absolute, fixed, atau sticky */
+  left: 430px; /* Jarak dari kiri */
+  top: 150px;
+}
+h1 {
+  font-family: Sans-Serif;
+  text-align: center;
+  font-size: 35px;
+}
